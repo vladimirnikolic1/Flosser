@@ -1,13 +1,13 @@
 
 # Flosser Shadow font
 
-![Image](image0.png)
+![Image](documentation/image0.png)
 
 
-![Image](image1.png)
+![Image](documentation/image1.png)
 
 
-![Image](image2.png)
+![Image](documentation/image2.png)
 
 
 ## License
